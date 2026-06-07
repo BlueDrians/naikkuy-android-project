@@ -1,0 +1,47 @@
+# Gradle
+.gradle/
+build/
+*/build/
+
+# Local configuration
+local.properties
+
+# Android Studio / IntelliJ
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# Generated files
+captures/
+.externalNativeBuild/
+.cxx/
+out/
+
+# APK / AAB outputs
+*.apk
+*.ap_
+*.aab
+
+# Keystore / signing files
+*.jks
+*.keystore
+*.p12
+*.pfx
+keystore.properties
+signing.properties
+
+# Firebase / Google config
+google-services.json
+
+# Environment files
+.env
+.env.*
+!.env.example
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log

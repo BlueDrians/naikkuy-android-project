@@ -1,0 +1,9 @@
+<resources>
+    <style name="Theme.NaikKuy" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="android:fontFamily">sans</item>
+        <item name="android:windowLightStatusBar">false</item>
+        <item name="android:statusBarColor">@color/navy</item>
+        <item name="android:navigationBarColor">@color/navy</item>
+        <item name="colorAccent">@color/orange</item>
+    </style>
+</resources>
